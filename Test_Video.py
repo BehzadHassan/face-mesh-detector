@@ -1,4 +1,4 @@
-from FaceRecognitionModule import FaceMeshDetector
+from FaceMeshModule import FaceMeshDetector
 import cv2
 import time
 
